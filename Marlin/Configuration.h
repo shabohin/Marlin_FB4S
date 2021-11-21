@@ -1319,9 +1319,9 @@
 
 // @section machine
 
-#define ALL_DRV_2208
+// #define ALL_DRV_2208
 //#define FB_4S_STOCK
-//#define FB_5_STOCK
+#define FB_5_STOCK
 //#define FB_5_NANO_S_V1_3
 #define FB_5_NANO_V1_3_4TMC
 //#define FB_5_NANO_V1_3
